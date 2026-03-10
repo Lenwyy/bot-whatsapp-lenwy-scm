@@ -28,7 +28,7 @@ globalThis.spackname = "Lenwy SCM"; // Ganti Sesuai Keinginan
 globalThis.sauthor = "Youtube : Lenwy\nBot: 0856-2497-5232"; // Ganti Sesuai Keinginan
 
 // Custom Prefix
-globalThis.prefix = ["#"]; // Multi Prefix (Custom Prefix)
+globalThis.prefix = ["#", ".", "!", "/"]; // Multi Prefix (Custom Prefix)
 globalThis.noprefix = false; // True = Tanpa Prefix, False = Pakai Prefix
 
 // Custom Menu Image
