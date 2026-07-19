@@ -85,7 +85,7 @@ export default async function handler(leni) {
         // Logic Di Sini
 
         // Validasi
-        if (!q) return LenwyText("Contoh: .Publicai Apa Fungsi JavaScript");
+        if (!q) return LenwyText("Contoh: .Publicai Apa Fungsi JavaScript?");
 
         // Loading
         LenwyWait();
