@@ -49,3 +49,6 @@ globalThis.mess = {
   disable: "🚫 Fitur Ini Sedang Dinonaktifkan Oleh Lenwy.",
   maintenance: "🛠 Fitur Ini Sedang Dalam Perbaikan.",
 };
+
+// Token Makota
+globalThis.makota = "-";
